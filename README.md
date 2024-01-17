@@ -6,7 +6,8 @@
 
 2. Github code link: https://github.com/sush-tech/challenge_03/blob/main/script.js
 
-3. Github Pages deployed webpage link : 
+3. Github Pages deployed webpage link : https://sush-tech.github.io/challenge_03/
+   
 
 
 ## Instructions to follow:
