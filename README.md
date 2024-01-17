@@ -1,10 +1,10 @@
 # Generate random password that includes special charecters as well
 
-## Useful linkes:
+## Useful links:
 
 1. The OWASP Foundation link for special characters: (https://www.owasp.org/index.php/Password_special_characters) 
 
-2. Github code link:
+2. Github code link: https://github.com/sush-tech/challenge_03/blob/main/script.js
 
 3. Github Pages deployed webpage link : 
 
